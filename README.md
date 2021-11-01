@@ -1,0 +1,2 @@
+# leetcode
+JavaScriptでの練習
