@@ -1,5 +1,5 @@
 var twoSum = function(nums, target) {
-    //用的哈希表
+    //用的哈希表（Hash Map）
     let map = new Map()
     for (let i = 0; i < nums.length; i++) {
         if (map.has(target - nums[i])) {
